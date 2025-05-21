@@ -73,6 +73,11 @@ TTI измеряется с использованием API Performance (`perfo
 - Достигнуто улучшение производительности на 45% по ключевым метрикам (LCP, TTI).
 - Реализована независимая разработка и развертывание модулей, что упрощает масштабирование и поддержку.
 
+## Компоненты
+![Описание изображения](путь/к/изображению)
+![Описание изображения](путь/к/изображению)
+![Описание изображения](путь/к/изображению)
+
 ## Использованные источники
 1. Google Developers. Core Web Vitals. [https://web.dev/vitals/](https://web.dev/vitals/)
 2. Документация Webpack. Module Federation. [https://webpack.js.org/concepts/module-federation/](https://webpack.js.org/concepts/module-federation/)
